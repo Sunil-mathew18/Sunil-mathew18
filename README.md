@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/sunil-mathew-t-g/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sunil Mathew" height="30" width="40" /></a>
 &nbsp;
-## Glad to see you here!&nbsp;visitors]
+## Glad to see you here!&nbsp;visitors
 
 I am a Computer science  Engineer Student . I love programming, reading, writing and speaking.
 
