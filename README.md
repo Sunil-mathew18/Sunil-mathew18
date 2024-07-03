@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/sunil-mathew-t-g/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sunil Mathew" height="30" width="40" /></a>
 &nbsp;
-## Glad to see you here! &nbsp; ![visitors]
+## Glad to see you here!&nbsp;visitors]
 
 I am a Computer science  Engineer Student . I love programming, reading, writing and speaking.
 
@@ -17,9 +17,9 @@ That's why I like to make things that make a difference.
 
 - 👨‍🎓 I'm a **Computer Science Engineering Student**
 - 💬 Ask me about anything, I am happy to help
-- ✍ I'm a **Technical blogger** with 10,000+ user reads
 - 🌱 I'm currently learning:
-  - Cyber Security  on [Youtube](www.youtube.com/@NetworkChuck)
+-   - Cloud Computing  on [Spotknack]
 - 📬 How to reach me: sunilzeus18@gmail.com
 - 📝 [Resume]: https://drive.google.com/file/d/13Yyr7rMmz32B1sG9W2Prjo6XsLtjyccO/view?usp=drive_link
+- Intrests - Cyber security, Social Working, playing chess
 
