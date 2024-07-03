@@ -10,15 +10,12 @@ As a engineer, I enjoy using my obsessive attention to detail, and my unequivoca
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
-
-
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **Computer Science Engineering Student**
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
--   - Cloud Computing  on [Spotknack]
+-  Cloud Computing  on [Spotknack]
 - 📬 How to reach me: sunilzeus18@gmail.com
 - 📝 [Resume]: https://drive.google.com/file/d/13Yyr7rMmz32B1sG9W2Prjo6XsLtjyccO/view?usp=drive_link
 - Intrests - Cyber security, Social Working, playing chess
