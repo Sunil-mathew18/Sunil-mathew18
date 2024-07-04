@@ -44,15 +44,15 @@ That's why I like to make things that make a difference.
 1. **Deployed SREC Website Using Cloud**
    - **Description**: Developed a robust frontend for an college site featuring user authentication, staff management, and payment integration.
    - **Tools**: EC2, Amplify, S3, CloudFront, Route 53
-   - [GitHub URL](https://github.com/Arjun-Debugs/SREC-Website)
+   - [GitHub URL](https://github.com/Sunil-mathew18)
 
 2. **Deployed E-Commerce Website (AJIO)**
    - **Description**: Deployed an e-commerce website using cloud.
-   - [GitHub URL](https://github.com/Arjun-Debugs/Myntra-Clone)
+   - [GitHub URL](https://github.com/Sunil-mathew18)
 
 3. **Suggested CI for SREC Website**
    - **Description**: Suggested continuous integration for SREC website.
-   - [GitHub URL](https://github.com/Arjun-Debugs/SREC-CI)
+   - [GitHub URL](https://github.com/Sunil-mathew18)
      
     #### 📜 Certifications
      
